@@ -2,5 +2,5 @@
 
 name: Stage the app
 
-on: 
+on: build
  
