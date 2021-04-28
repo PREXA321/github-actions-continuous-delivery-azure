@@ -1,0 +1,6 @@
+
+
+name: Stage the app
+
+on: build
+ 
